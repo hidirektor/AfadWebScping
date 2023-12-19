@@ -1,0 +1,402 @@
+[
+  {
+    "Date(TS)": "19-12-2023 13:43:41",
+    "Latitude": "38.2592",
+    "Longitude": "38.2075",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "2.3",
+    "Location": "Yeşilyurt (Malatya)",
+    "EventID": "613331"
+  },
+  {
+    "Date(TS)": "19-12-2023 13:22:53",
+    "Latitude": "37.4561",
+    "Longitude": "36.9086",
+    "Depth": "5.51",
+    "Type": "ML",
+    "Magnitude": "1.4",
+    "Location": "Dulkadiroğlu (Kahramanmaraş)",
+    "EventID": "613330"
+  },
+  {
+    "Date(TS)": "19-12-2023 13:14:11",
+    "Latitude": "40.9647",
+    "Longitude": "42.0008",
+    "Depth": "7.5",
+    "Type": "ML",
+    "Magnitude": "1.9",
+    "Location": "Olur (Erzurum)",
+    "EventID": "613329"
+  },
+  {
+    "Date(TS)": "19-12-2023 13:01:48",
+    "Latitude": "37.2256",
+    "Longitude": "36.2439",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.4",
+    "Location": "Merkez (Osmaniye)",
+    "EventID": "613328"
+  },
+  {
+    "Date(TS)": "19-12-2023 12:56:02",
+    "Latitude": "36.5444",
+    "Longitude": "38.5528",
+    "Depth": "7.04",
+    "Type": "ML",
+    "Magnitude": "1.9",
+    "Location": "Ayn el-Arab, Halep (Suriye) - [25.33 km] Akçakale (Şanlıurfa)",
+    "EventID": "613327"
+  },
+  {
+    "Date(TS)": "19-12-2023 12:22:58",
+    "Latitude": "38.2169",
+    "Longitude": "38.1692",
+    "Depth": "8.59",
+    "Type": "ML",
+    "Magnitude": "2.0",
+    "Location": "Yeşilyurt (Malatya)",
+    "EventID": "613326"
+  },
+  {
+    "Date(TS)": "19-12-2023 12:07:45",
+    "Latitude": "37.9922",
+    "Longitude": "37.5394",
+    "Depth": "6.75",
+    "Type": "ML",
+    "Magnitude": "1.5",
+    "Location": "Nurhak (Kahramanmaraş)",
+    "EventID": "613325"
+  },
+  {
+    "Date(TS)": "19-12-2023 11:49:40",
+    "Latitude": "36.9403",
+    "Longitude": "37.0478",
+    "Depth": "16.58",
+    "Type": "ML",
+    "Magnitude": "1.9",
+    "Location": "Musabeyli (Kilis)",
+    "EventID": "613323"
+  },
+  {
+    "Date(TS)": "19-12-2023 11:46:03",
+    "Latitude": "37.3753",
+    "Longitude": "37.0122",
+    "Depth": "6.92",
+    "Type": "ML",
+    "Magnitude": "0.7",
+    "Location": "Türkoğlu (Kahramanmaraş)",
+    "EventID": "613324"
+  },
+  {
+    "Date(TS)": "19-12-2023 11:31:49",
+    "Latitude": "38.2886",
+    "Longitude": "38.2933",
+    "Depth": "7.11",
+    "Type": "ML",
+    "Magnitude": "2.3",
+    "Location": "Yeşilyurt (Malatya)",
+    "EventID": "613322"
+  },
+  {
+    "Date(TS)": "19-12-2023 11:20:41",
+    "Latitude": "38.3697",
+    "Longitude": "38.0881",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.8",
+    "Location": "Akçadağ (Malatya)",
+    "EventID": "613321"
+  },
+  {
+    "Date(TS)": "19-12-2023 10:07:59",
+    "Latitude": "39.4689",
+    "Longitude": "29.2919",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.2",
+    "Location": "Emet (Kütahya)",
+    "EventID": "613317"
+  },
+  {
+    "Date(TS)": "19-12-2023 10:00:42",
+    "Latitude": "38.0258",
+    "Longitude": "27.1533",
+    "Depth": "23.39",
+    "Type": "ML",
+    "Magnitude": "0.9",
+    "Location": "Menderes (İzmir)",
+    "EventID": "613315"
+  },
+  {
+    "Date(TS)": "19-12-2023 09:44:11",
+    "Latitude": "38.3183",
+    "Longitude": "38.2919",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.7",
+    "Location": "Yeşilyurt (Malatya)",
+    "EventID": "613320"
+  },
+  {
+    "Date(TS)": "19-12-2023 09:24:39",
+    "Latitude": "39.925",
+    "Longitude": "39.3097",
+    "Depth": "6.96",
+    "Type": "ML",
+    "Magnitude": "1.3",
+    "Location": "Kelkit (Gümüşhane)",
+    "EventID": "613319"
+  },
+  {
+    "Date(TS)": "19-12-2023 09:13:03",
+    "Latitude": "39.8828",
+    "Longitude": "39.3047",
+    "Depth": "7.14",
+    "Type": "ML",
+    "Magnitude": "1.3",
+    "Location": "Merkez (Erzincan)",
+    "EventID": "613316"
+  },
+  {
+    "Date(TS)": "19-12-2023 09:01:47",
+    "Latitude": "38.8564",
+    "Longitude": "38.015",
+    "Depth": "8.69",
+    "Type": "ML",
+    "Magnitude": "1.4",
+    "Location": "Hekimhan (Malatya)",
+    "EventID": "613318"
+  },
+  {
+    "Date(TS)": "19-12-2023 08:43:54",
+    "Latitude": "36.6133",
+    "Longitude": "36.4406",
+    "Depth": "5.75",
+    "Type": "ML",
+    "Magnitude": "1.7",
+    "Location": "Kırıkhan (Hatay)",
+    "EventID": "613314"
+  },
+  {
+    "Date(TS)": "19-12-2023 08:24:01",
+    "Latitude": "39.5878",
+    "Longitude": "33.0497",
+    "Depth": "10.09",
+    "Type": "ML",
+    "Magnitude": "1.0",
+    "Location": "Bala (Ankara)",
+    "EventID": "613313"
+  },
+  {
+    "Date(TS)": "19-12-2023 07:39:06",
+    "Latitude": "38.1469",
+    "Longitude": "37.4167",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "2.0",
+    "Location": "Elbistan (Kahramanmaraş)",
+    "EventID": "613312"
+  },
+  {
+    "Date(TS)": "09-12-2023 15:43:03",
+    "Latitude": "38.3564",
+    "Longitude": "38.3128",
+    "Depth": "7.1",
+    "Type": "ML",
+    "Magnitude": "1.6",
+    "Location": "Battalgazi (Malatya)",
+    "EventID": "612330"
+  },
+  {
+    "Date(TS)": "09-12-2023 15:41:40",
+    "Latitude": "38.1186",
+    "Longitude": "37.3878",
+    "Depth": "7.9",
+    "Type": "ML",
+    "Magnitude": "1.3",
+    "Location": "Elbistan (Kahramanmaraş)",
+    "EventID": "612329"
+  },
+  {
+    "Date(TS)": "09-12-2023 14:13:38",
+    "Latitude": "38.2325",
+    "Longitude": "38.1839",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.7",
+    "Location": "Yeşilyurt (Malatya)",
+    "EventID": "612328"
+  },
+  {
+    "Date(TS)": "09-12-2023 13:08:08",
+    "Latitude": "37.8175",
+    "Longitude": "37.5914",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.4",
+    "Location": "Gölbaşı (Adıyaman)",
+    "EventID": "612327"
+  },
+  {
+    "Date(TS)": "09-12-2023 12:53:34",
+    "Latitude": "38.3972",
+    "Longitude": "37.5858",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.6",
+    "Location": "Darende (Malatya)",
+    "EventID": "612326"
+  },
+  {
+    "Date(TS)": "09-12-2023 12:43:31",
+    "Latitude": "38.0561",
+    "Longitude": "37.5333",
+    "Depth": "7.1",
+    "Type": "ML",
+    "Magnitude": "1.4",
+    "Location": "Elbistan (Kahramanmaraş)",
+    "EventID": "612118"
+  },
+  {
+    "Date(TS)": "08-12-2023 00:00:15",
+    "Latitude": "38.2461",
+    "Longitude": "37.775",
+    "Depth": "7.01",
+    "Type": "ML",
+    "Magnitude": "1.5",
+    "Location": "Doğanşehir (Malatya)",
+    "EventID": "612124"
+  },
+  {
+    "Date(TS)": "07-12-2023 23:52:22",
+    "Latitude": "39.4044",
+    "Longitude": "40.5056",
+    "Depth": "8.01",
+    "Type": "ML",
+    "Magnitude": "1.7",
+    "Location": "Yedisu (Bingöl)",
+    "EventID": "612121"
+  },
+  {
+    "Date(TS)": "07-12-2023 23:39:25",
+    "Latitude": "40.4875",
+    "Longitude": "28.7731",
+    "Depth": "6.99",
+    "Type": "ML",
+    "Magnitude": "1.4",
+    "Location": "Marmara Denizi - Gemlik Körfezi - [04.84 km] Armutlu (Yalova)",
+    "EventID": "612123"
+  },
+  {
+    "Date(TS)": "07-12-2023 23:34:23",
+    "Latitude": "38.4861",
+    "Longitude": "40.2728",
+    "Depth": "6.92",
+    "Type": "ML",
+    "Magnitude": "1.6",
+    "Location": "Arıcak (Elazığ)",
+    "EventID": "612120"
+  },
+  {
+    "Date(TS)": "07-12-2023 23:32:20",
+    "Latitude": "38.5008",
+    "Longitude": "40.2569",
+    "Depth": "6.98",
+    "Type": "ML",
+    "Magnitude": "1.6",
+    "Location": "Arıcak (Elazığ)",
+    "EventID": "612119"
+  },
+  {
+    "Date(TS)": "07-12-2023 23:31:27",
+    "Latitude": "38.2589",
+    "Longitude": "37.7881",
+    "Depth": "10.62",
+    "Type": "ML",
+    "Magnitude": "1.9",
+    "Location": "Nurdağı (Gaziantep)",
+    "EventID": "611914"
+  },
+  {
+    "Date(TS)": "06-12-2023 08:59:10",
+    "Latitude": "36.8422",
+    "Longitude": "33.8317",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.5",
+    "Location": "Silifke (Mersin)",
+    "EventID": "611915"
+  },
+  {
+    "Date(TS)": "06-12-2023 08:58:35",
+    "Latitude": "38.1172",
+    "Longitude": "38.5264",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "2.5",
+    "Location": "Sincik (Adıyaman)",
+    "EventID": "611919"
+  },
+  {
+    "Date(TS)": "06-12-2023 08:56:11",
+    "Latitude": "38.3272",
+    "Longitude": "37.2769",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "1.8",
+    "Location": "Elbistan (Kahramanmaraş)",
+    "EventID": "611917"
+  },
+  {
+    "Date(TS)": "06-12-2023 08:47:18",
+    "Latitude": "37.9033",
+    "Longitude": "36.1106",
+    "Depth": "11.75",
+    "Type": "ML",
+    "Magnitude": "1.5",
+    "Location": "Saimbeyli (Adana)",
+    "EventID": "611918"
+  },
+  {
+    "Date(TS)": "06-12-2023 08:45:31",
+    "Latitude": "40.4703",
+    "Longitude": "30.2514",
+    "Depth": "7",
+    "Type": "ML",
+    "Magnitude": "2.3",
+    "Location": "Geyve (Sakarya)",
+    "EventID": "611913"
+  },
+  {
+    "Date(TS)": "06-12-2023 08:23:33",
+    "Latitude": "38.3503",
+    "Longitude": "37.2706",
+    "Depth": "7.03",
+    "Type": "ML",
+    "Magnitude": "2.9",
+    "Location": "Akhisar (Manisa)",
+    "EventID": "611709"
+  },
+  {
+    "Date(TS)": "05-12-2023 00:11:32",
+    "Latitude": "37.8494",
+    "Longitude": "36.1925",
+    "Depth": "7.08",
+    "Type": "ML",
+    "Magnitude": "1.4",
+    "Location": "Saimbeyli (Adana)",
+    "EventID": "611710"
+  },
+  {
+    "Date(TS)": "05-12-2023 00:09:42",
+    "Latitude": "40.4069",
+    "Longitude": "28.8522",
+    "Depth": "7.46",
+    "Type": "ML",
+    "Magnitude": "1.7",
+    "Location": "Marmara Denizi - Gemlik Körfezi - [02.94 km] Mudanya (Bursa)",
+    "EventID": "611707"
+  }
+]
